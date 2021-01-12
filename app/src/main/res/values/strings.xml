@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IMovie</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IMovie</string>
+    <string name="nav_header_subtitle">www.themoviedb.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="nav_search">Recherche</string>
+    <string name="nav_favorite">Favoris</string>
+    <string name="nav_recent">Récents</string>
+    <string name="nav_share">Partager</string>
+
+    <string name="action_refresh">Actualiser</string>
+
+    <string name="search_text">Titre du film</string>
+    <string name="search_icon">Search icon</string>
+    <string name="results">Results</string>
+    <string name="empty_movie_title_control">Enter a movie title</string>
+
+    <string name="reviews">Commentaires</string>
+    <string name="trailers">Bandes-annonces</string>
+    <string name="summary">Résumé</string>
+
+    <string name="note">Note : %1$.1f / 10</string>
+    <string name="num_votes">Nombre de votes : %1$d</string>
+    <string name="budget">Budget : %1$s $</string>
+    <string name="genres">Genre(s) : %1$s</string>
+    <string name="companies">Compagnie(s) : %1$s</string>
+    <string name="release_date_text">Sorti le %1$s</string>
+
+    <string name="movie_cover">Movie cover image</string>
+    <string name="movie_details_backdrop">Movie details backdrop image</string>
+
+    <string name="nothing_to_display">Aucun résultat.</string>
+    <string name="network_troubleshoot">Veuillez vérifier votre connexion internet.</string>
+</resources>

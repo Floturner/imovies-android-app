@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:checked="true"
+            android:icon="@drawable/ic_search_24"
+            android:title="@string/nav_search" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_24"
+            android:title="@string/nav_favorite" />
+        <item
+            android:id="@+id/nav_recent"
+            android:icon="@drawable/ic_movie_24"
+            android:title="@string/nav_recent" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share_24"
+            android:title="@string/nav_share" />
+    </group>
+</menu>
